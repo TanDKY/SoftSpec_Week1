@@ -1,13 +1,3 @@
 #Vision Statement
 
-1. WHO is customer?
-	: Anyone who want to review OOP subject or challenge their knowledge in OOP.
-
-2. WHAT is their need?
-The problem is there is no interesting resource to review their knowledge, so we create game
-
-3. your vision of solution
-: 
-
-4. How is your solution different from existing products?
-	:
+	For this project, the customers are teachers and students. They want to find the way to review OOP subject. So, we create the game like jeopardy to review the subject. The game will contain the topic in OOP. In one game, it will contain about 30 problems which random from the database. They will seperate in categories and level. The players will get the points uppon the level of problems. The games will online so that students can play in differrent place but in the same time. After select the question, players must push the button first will get the chance to answer. If it is correct, player will get points otherwise will lose points. When finish game, it will rank the score with all player around the world. 
